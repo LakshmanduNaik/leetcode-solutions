@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
