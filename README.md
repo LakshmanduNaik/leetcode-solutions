@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Greedy
 |  |
@@ -35,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
