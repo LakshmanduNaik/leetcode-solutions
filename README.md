@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Simulation
