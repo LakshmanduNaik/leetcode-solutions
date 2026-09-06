@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Quicksort
 |  |
@@ -69,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/3866-first-unique-even-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ramavathlakshman0-dotcom/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
